@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Khandakar Tareq Alam
 - 👀 I’m interested in Programming
-- 🌱 I’m currently learning Vue.js
-- 💞️ I’m looking to collaborate on vue.js
+- 🌱 I’m currently learning React
+- 💞️ I’m looking to collaborate on React
 - 📫 How to reach me ...[Ktareq24](https://twitter.com/ktareq24)
 
 <!---
